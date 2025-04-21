@@ -49,13 +49,8 @@ contract LuxurySupplyChain {
 }
 ```
 # Expected Output:
-A luxury good (e.g., a Rolex watch) is registered on-chain.
+![image](https://github.com/user-attachments/assets/b87c002f-014e-4db9-8a57-0014d629ee15)
 
-
-Ownership is transferred at every checkpoint.
-
-
-Buyers can check the authenticity before purchasing.
 
 
 # High-Level Overview:
@@ -65,4 +60,4 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
-
+Thus decentralized supply chain is implemented
