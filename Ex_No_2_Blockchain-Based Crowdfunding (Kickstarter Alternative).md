@@ -61,13 +61,7 @@ contract Crowdfunding {
 }
 ```
 # Expected Output:
-Users can contribute ETH to the campaign.
-
-
-If the goal is met, the creator can withdraw funds.
-
-
-If the goal is not met, contributors can claim a refund.
+![image](https://github.com/user-attachments/assets/7c49bb83-020f-447f-a6b3-1637e95972fa)
 
 
 # High-Level Overview:
