@@ -42,4 +42,4 @@ High-Level Overview:
 ● Shows how blockchain can be used in education and credential verification.
 ```
 # Result:
-
+Thus smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is implemented and verified.
