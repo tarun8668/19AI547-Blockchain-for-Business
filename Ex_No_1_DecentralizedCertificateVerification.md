@@ -30,6 +30,8 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
+![Uploading image.png…]()
+
 ```
 ● When the university issues a certificate, it gets stored as a hash.
 ● A student or employer can verify the certificate by entering the details.
