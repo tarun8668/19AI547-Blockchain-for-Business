@@ -30,7 +30,7 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a14dddc1-506b-48af-8028-bfa08909d541)
 
 ```
 ● When the university issues a certificate, it gets stored as a hash.
